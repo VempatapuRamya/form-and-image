@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+ 
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 70px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+} 
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: blueviolet;
+    border: 5px solid black;
+}
+.container img{
+    width: 350px;
+    height: 350px;
+}
